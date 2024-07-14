@@ -16,9 +16,3 @@ TODO:
  - Enable external Joystick to Virtual Sensor injection
  - Correct some bugs when interacts with the Xposed API
  - Apply well practices of developing
- 
-DONE:
-
- - Add more virtual sensor Compass (Orientation)
- - Correct some bugs when interacts with the Xposed API
- 
